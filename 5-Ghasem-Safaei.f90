@@ -1,4 +1,4 @@
-Program my_5
+Program my_lamp
  implicit none
   integer , parameter:: i=1000
   integer x(i),n,counter,j
